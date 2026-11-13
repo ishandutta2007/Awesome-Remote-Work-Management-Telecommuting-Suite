@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.sheelds.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=frr-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Remote-Work-Management-Telecommuting-Suite/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Remote-Work-Management-Telecommuting-Suite?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Remote-Work-Management-Telecommuting-Suite/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Remote-Work-Management-Telecommuting-Suite?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Remote-Work-Management-Telecommuting-Suite/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Remote-Work-Management-Telecommuting-Suite?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Remote-Work-Management-Telecommuting-Suite/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-green.svg?style=flat-square" alt="License: CC0-1.0" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -61,9 +61,9 @@ Cloud-hosted, enterprise-grade telecommuting suites and collaboration platforms.
 
 ## 🔓 Open-Source Software Stacks 💻
 
-Self-hosted, transparent, and sovereignty-preserving telecommuting suites. Ranked in **descending order by GitHub star count**. Each badge links directly to the project's stargazers page.
+Self-hosted, transparent, and sovereignty-preserving telecommuting suites. Ranked in **descending order by GitHub Stars_Count**. Each badge links directly to the project's stargazers page.
 
-### 1. [Excalidraw](https://github.com/excalidraw/excalidraw) [![GitHub stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers) 🎨
+### 1. [Excalidraw](https://github.com/excalidraw/excalidraw) [![GitHub_Stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers) 🎨
 - **Category:** Virtual Whiteboard & Architecture Diagramming  
 - **Tech Stack:** TypeScript / React / Web Canvas  
 - **License:** MIT  
@@ -72,7 +72,7 @@ Self-hosted, transparent, and sovereignty-preserving telecommuting suites. Ranke
 
 ---
 
-### 2. [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers) 📝
+### 2. [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) [![GitHub_Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers) 📝
 - **Category:** Modular Workspace & Knowledge Base (Notion Alternative)  
 - **Tech Stack:** Flutter / Rust / SQLite / Go  
 - **License:** AGPL-3.0  
@@ -81,7 +81,7 @@ Self-hosted, transparent, and sovereignty-preserving telecommuting suites. Ranke
 
 ---
 
-### 3. [AFFiNE](https://github.com/toeverything/AFFiNE) [![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers) 🧠
+### 3. [AFFiNE](https://github.com/toeverything/AFFiNE) [![GitHub_Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers) 🧠
 - **Category:** Hybrid Document & Infinite Canvas Workspace  
 - **Tech Stack:** TypeScript / Rust (OctoBase CRDT) / React  
 - **License:** MIT  
@@ -90,7 +90,7 @@ Self-hosted, transparent, and sovereignty-preserving telecommuting suites. Ranke
 
 ---
 
-### 4. [Plane](https://github.com/makeplane/plane) [![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers) 🎯
+### 4. [Plane](https://github.com/makeplane/plane) [![GitHub_Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers) 🎯
 - **Category:** Modern Issue & Project Tracking (Linear & Jira Alternative)  
 - **Tech Stack:** Python (Django) / TypeScript / Next.js / PostgreSQL / Redis  
 - **License:** AGPL-3.0  
@@ -99,7 +99,7 @@ Self-hosted, transparent, and sovereignty-preserving telecommuting suites. Ranke
 
 ---
 
-### 5. [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) [![GitHub stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers) 💬
+### 5. [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) [![GitHub_Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers) 💬
 - **Category:** Omnichannel Team Communication & Secure Chat  
 - **Tech Stack:** TypeScript / Node.js / MongoDB / React  
 - **License:** MIT (Community Edition)  
@@ -108,7 +108,7 @@ Self-hosted, transparent, and sovereignty-preserving telecommuting suites. Ranke
 
 ---
 
-### 6. [Outline](https://github.com/outline/outline) [![GitHub stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers) 📚
+### 6. [Outline](https://github.com/outline/outline) [![GitHub_Stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers) 📚
 - **Category:** Team Knowledge Base & Documentation Wiki  
 - **Tech Stack:** TypeScript / Node.js / React / PostgreSQL / Redis  
 - **License:** BSL 1.1 / Open Source  
@@ -117,7 +117,7 @@ Self-hosted, transparent, and sovereignty-preserving telecommuting suites. Ranke
 
 ---
 
-### 7. [Mattermost](https://github.com/mattermost/mattermost) [![GitHub stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers) 🛡️
+### 7. [Mattermost](https://github.com/mattermost/mattermost) [![GitHub_Stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers) 🛡️
 - **Category:** Developer Chat & Incident Collaboration  
 - **Tech Stack:** Go / React / PostgreSQL  
 - **License:** MIT (Team Edition) / Open Core  
@@ -126,7 +126,7 @@ Self-hosted, transparent, and sovereignty-preserving telecommuting suites. Ranke
 
 ---
 
-### 8. [Nextcloud](https://github.com/nextcloud/server) [![GitHub stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers) ☁️
+### 8. [Nextcloud](https://github.com/nextcloud/server) [![GitHub_Stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers) ☁️
 - **Category:** Enterprise Collaboration Hub & Private Cloud  
 - **Tech Stack:** PHP / JavaScript / MariaDB / PostgreSQL / Redis  
 - **License:** AGPL-3.0  
@@ -135,7 +135,7 @@ Self-hosted, transparent, and sovereignty-preserving telecommuting suites. Ranke
 
 ---
 
-### 9. [Jitsi Meet](https://github.com/jitsi/jitsi-meet) [![GitHub stars](https://img.shields.io/github/stars/jitsi/jitsi-meet?style=social&color=white)](https://github.com/jitsi/jitsi-meet/stargazers) 📹
+### 9. [Jitsi Meet](https://github.com/jitsi/jitsi-meet) [![GitHub_Stars](https://img.shields.io/github/stars/jitsi/jitsi-meet?style=social&color=white)](https://github.com/jitsi/jitsi-meet/stargazers) 📹
 - **Category:** WebRTC Video Conferencing Platform  
 - **Tech Stack:** JavaScript (React) / Java (Jicofo & Videobridge) / WebRTC  
 - **License:** Apache-2.0  
@@ -144,7 +144,7 @@ Self-hosted, transparent, and sovereignty-preserving telecommuting suites. Ranke
 
 ---
 
-### 10. [Huly Platform](https://github.com/hcengineering/platform) [![GitHub stars](https://img.shields.io/github/stars/hcengineering/platform?style=social&color=white)](https://github.com/hcengineering/platform/stargazers) ⚡
+### 10. [Huly Platform](https://github.com/hcengineering/platform) [![GitHub_Stars](https://img.shields.io/github/stars/hcengineering/platform?style=social&color=white)](https://github.com/hcengineering/platform/stargazers) ⚡
 - **Category:** All-in-One Digital Office (Linear + Slack + Notion + HR)  
 - **Tech Stack:** TypeScript / Node.js / PostgreSQL / Elasticsearch / Redpanda  
 - **License:** EPL-2.0 (Eclipse Public License)  
@@ -153,7 +153,7 @@ Self-hosted, transparent, and sovereignty-preserving telecommuting suites. Ranke
 
 ---
 
-### 11. [Zulip](https://github.com/zulip/zulip) [![GitHub stars](https://img.shields.io/github/stars/zulip/zulip?style=social&color=white)](https://github.com/zulip/zulip/stargazers) 📬
+### 11. [Zulip](https://github.com/zulip/zulip) [![GitHub_Stars](https://img.shields.io/github/stars/zulip/zulip?style=social&color=white)](https://github.com/zulip/zulip/stargazers) 📬
 - **Category:** Threaded Asynchronous Team Chat  
 - **Tech Stack:** Python (Django) / TypeScript / PostgreSQL / Redis  
 - **License:** Apache-2.0  
@@ -162,7 +162,7 @@ Self-hosted, transparent, and sovereignty-preserving telecommuting suites. Ranke
 
 ---
 
-### 12. [Docmost](https://github.com/docmost/docmost) [![GitHub stars](https://img.shields.io/github/stars/docmost/docmost?style=social&color=white)](https://github.com/docmost/docmost/stargazers) 📖
+### 12. [Docmost](https://github.com/docmost/docmost) [![GitHub_Stars](https://img.shields.io/github/stars/docmost/docmost?style=social&color=white)](https://github.com/docmost/docmost/stargazers) 📖
 - **Category:** Real-Time Collaborative Wiki & Knowledge Base  
 - **Tech Stack:** Node.js / TypeScript / PostgreSQL / Redis  
 - **License:** AGPL-3.0  
@@ -171,7 +171,7 @@ Self-hosted, transparent, and sovereignty-preserving telecommuting suites. Ranke
 
 ---
 
-### 13. [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton) [![GitHub stars](https://img.shields.io/github/stars/bigbluebutton/bigbluebutton?style=social&color=white)](https://github.com/bigbluebutton/bigbluebutton/stargazers) 🎓
+### 13. [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton) [![GitHub_Stars](https://img.shields.io/github/stars/bigbluebutton/bigbluebutton?style=social&color=white)](https://github.com/bigbluebutton/bigbluebutton/stargazers) 🎓
 - **Category:** Virtual Classroom & Interactive Webinar Platform  
 - **Tech Stack:** Scala / JavaScript / Node.js / WebRTC / FreeSWITCH  
 - **License:** LGPL-3.0  
@@ -180,7 +180,7 @@ Self-hosted, transparent, and sovereignty-preserving telecommuting suites. Ranke
 
 ---
 
-### 14. [Vikunja](https://github.com/go-vikunja/vikunja) [![GitHub stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers) ✅
+### 14. [Vikunja](https://github.com/go-vikunja/vikunja) [![GitHub_Stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers) ✅
 - **Category:** Task Management & Personal/Team Productivity  
 - **Tech Stack:** Go / Vue.js / SQLite / PostgreSQL / MySQL  
 - **License:** AGPL-3.0  
@@ -189,7 +189,7 @@ Self-hosted, transparent, and sovereignty-preserving telecommuting suites. Ranke
 
 ---
 
-### 15. [Calab](https://github.com/itrcz/calab) [![GitHub stars](https://img.shields.io/github/stars/itrcz/calab?style=social&color=white)](https://github.com/itrcz/calab/stargazers) 📡
+### 15. [Calab](https://github.com/itrcz/calab) [![GitHub_Stars](https://img.shields.io/github/stars/itrcz/calab?style=social&color=white)](https://github.com/itrcz/calab/stargazers) 📡
 - **Category:** Converged Chat, Calls, Boards & Bot Workspace  
 - **Tech Stack:** Go / LiveKit / PostgreSQL / Docker  
 - **License:** AGPL-3.0  
