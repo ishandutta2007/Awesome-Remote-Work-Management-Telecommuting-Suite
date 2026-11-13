@@ -1,0 +1,215 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="100%" height="360" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0f1d" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e1b4b" />
+    </linearGradient>
+
+    <!-- Card Gradient -->
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(255, 255, 255, 0.08)" />
+      <stop offset="100%" stop-color="rgba(255, 255, 255, 0.02)" />
+    </linearGradient>
+
+    <!-- Text Highlight Gradient -->
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06b6d4" />
+      <stop offset="100%" stop-color="#3b82f6" />
+    </linearGradient>
+
+    <!-- Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="15" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    .title-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 800;
+      font-size: 42px;
+      letter-spacing: -0.5px;
+      fill: #ffffff;
+    }
+    .subtitle-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 400;
+      font-size: 17px;
+      fill: #94a3b8;
+      letter-spacing: 0.2px;
+    }
+    .badge-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 600;
+      font-size: 12px;
+      letter-spacing: 0.5px;
+    }
+    .stat-label {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-size: 11px;
+      font-weight: 500;
+      fill: #64748b;
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+    }
+    .stat-val {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-size: 15px;
+      font-weight: 700;
+      fill: #e2e8f0;
+    }
+
+    /* Subtle pulsing / floating background elements */
+    @keyframes pulseGlow {
+      0% { opacity: 0.25; transform: scale(0.98); }
+      50% { opacity: 0.5; transform: scale(1.05); }
+      100% { opacity: 0.25; transform: scale(0.98); }
+    }
+    @keyframes floatPill1 {
+      0% { transform: translateY(0px) rotate(0deg); }
+      50% { transform: translateY(-7px) rotate(1deg); }
+      100% { transform: translateY(0px) rotate(0deg); }
+    }
+    @keyframes floatPill2 {
+      0% { transform: translateY(0px) rotate(0deg); }
+      50% { transform: translateY(7px) rotate(-1deg); }
+      100% { transform: translateY(0px) rotate(0deg); }
+    }
+    @keyframes flowLine {
+      0% { stroke-dashoffset: 100; }
+      100% { stroke-dashoffset: 0; }
+    }
+
+    .pulsing-orb-1 {
+      animation: pulseGlow 8s ease-in-out infinite;
+      transform-origin: 200px 80px;
+    }
+    .pulsing-orb-2 {
+      animation: pulseGlow 10s ease-in-out infinite 2s;
+      transform-origin: 1050px 280px;
+    }
+    .pill-float-1 {
+      animation: floatPill1 6s ease-in-out infinite;
+    }
+    .pill-float-2 {
+      animation: floatPill2 7s ease-in-out infinite 1s;
+    }
+    .moving-line {
+      stroke-dasharray: 8 6;
+      animation: flowLine 25s linear infinite;
+    }
+  </style>
+
+  <!-- Canvas Background -->
+  <rect width="1200" height="360" rx="18" fill="url(#bgGrad)" />
+
+  <!-- Subtle Grid Pattern for Tech Aesthetic -->
+  <g stroke="rgba(255,255,255,0.03)" stroke-width="1">
+    <line x1="0" y1="60" x2="1200" y2="60" />
+    <line x1="0" y1="120" x2="1200" y2="120" />
+    <line x1="0" y1="180" x2="1200" y2="180" />
+    <line x1="0" y1="240" x2="1200" y2="240" />
+    <line x1="0" y1="300" x2="1200" y2="300" />
+    <line x1="150" y1="0" x2="150" y2="360" />
+    <line x1="300" y1="0" x2="300" y2="360" />
+    <line x1="450" y1="0" x2="450" y2="360" />
+    <line x1="600" y1="0" x2="600" y2="360" />
+    <line x1="750" y1="0" x2="750" y2="360" />
+    <line x1="900" y1="0" x2="900" y2="360" />
+    <line x1="1050" y1="0" x2="1050" y2="360" />
+  </g>
+
+  <!-- Dynamic Glowing Orbs in Background -->
+  <circle class="pulsing-orb-1" cx="180" cy="80" r="140" fill="#38bdf8" filter="url(#glow)" opacity="0.3" />
+  <circle class="pulsing-orb-2" cx="1060" cy="270" r="160" fill="#818cf8" filter="url(#glow)" opacity="0.25" />
+  <circle cx="980" cy="70" r="90" fill="#c084fc" filter="url(#glow)" opacity="0.2" />
+
+  <!-- Decorative dynamic flow lines behind content -->
+  <path class="moving-line" d="M 50 180 Q 300 320 600 180 T 1150 180" fill="none" stroke="rgba(56, 189, 248, 0.15)" stroke-width="2" />
+  <path class="moving-line" d="M 50 220 Q 400 60 750 220 T 1150 120" fill="none" stroke="rgba(192, 132, 252, 0.15)" stroke-width="1.5" />
+
+  <!-- Animated Floating Category Pills at top right (safe from center text) -->
+  <g class="pill-float-1" transform="translate(850, 40)">
+    <rect width="130" height="32" rx="16" fill="rgba(255,255,255,0.06)" stroke="rgba(56, 189, 248, 0.4)" stroke-width="1" backdrop-filter="blur(5px)" />
+    <circle cx="16" cy="16" r="4" fill="#38bdf8" />
+    <text x="28" y="21" class="badge-text" fill="#e0f2fe">💬 Team Chat</text>
+  </g>
+
+  <g class="pill-float-2" transform="translate(1000, 40)">
+    <rect width="145" height="32" rx="16" fill="rgba(255,255,255,0.06)" stroke="rgba(129, 140, 248, 0.4)" stroke-width="1" />
+    <circle cx="16" cy="16" r="4" fill="#818cf8" />
+    <text x="28" y="21" class="badge-text" fill="#ede9fe">📹 Video &amp; Async</text>
+  </g>
+
+  <g class="pill-float-2" transform="translate(860, 85)">
+    <rect width="135" height="32" rx="16" fill="rgba(255,255,255,0.06)" stroke="rgba(192, 132, 252, 0.4)" stroke-width="1" />
+    <circle cx="16" cy="16" r="4" fill="#c084fc" />
+    <text x="28" y="21" class="badge-text" fill="#fae8ff">📋 Task Boards</text>
+  </g>
+
+  <g class="pill-float-1" transform="translate(1015, 85)">
+    <rect width="135" height="32" rx="16" fill="rgba(255,255,255,0.06)" stroke="rgba(52, 211, 153, 0.4)" stroke-width="1" />
+    <circle cx="16" cy="16" r="4" fill="#34d399" />
+    <text x="28" y="21" class="badge-text" fill="#d1fae5">📝 Knowledge Base</text>
+  </g>
+
+  <!-- FOREGROUND CONTENT: Header Tag, Title, Subtitle (Clear, readable, high z-order) -->
+  <g transform="translate(60, 45)">
+    <!-- Category Badge -->
+    <rect width="260" height="28" rx="14" fill="rgba(56, 189, 248, 0.12)" stroke="rgba(56, 189, 248, 0.3)" stroke-width="1" />
+    <text x="14" y="19" class="badge-text" fill="#38bdf8">⚡ CURATED ECOSYSTEM DIRECTORY</text>
+
+    <!-- Main Title -->
+    <text x="0" y="78" class="title-text">
+      Remote Work Management &amp;
+    </text>
+    <text x="0" y="128" class="title-text" fill="url(#textGrad)">
+      Telecommuting Suite 🌐
+    </text>
+
+    <!-- Subtitle / Mission Statement -->
+    <text x="0" y="168" class="subtitle-text">
+      Enterprise SaaS &amp; Self-Hosted Open-Source Platforms for Distributed Teams
+    </text>
+    <text x="0" y="192" class="subtitle-text" fill="#64748b">
+      Compare leading commercial stacks &amp; high-performance self-hostable alternatives across Chat, Video, Docs &amp; PM.
+    </text>
+  </g>
+
+  <!-- Bottom Metric / Feature Bar Cards -->
+  <g transform="translate(60, 268)">
+    <!-- Card 1 -->
+    <rect x="0" y="0" width="245" height="58" rx="10" fill="url(#cardGrad)" stroke="rgba(255,255,255,0.08)" stroke-width="1" />
+    <text x="18" y="22" class="stat-label">Market Dynamics</text>
+    <text x="18" y="44" class="stat-val">$24.8B+ · Moderately Frag.</text>
+
+    <!-- Card 2 -->
+    <rect x="260" y="0" width="245" height="58" rx="10" fill="url(#cardGrad)" stroke="rgba(255,255,255,0.08)" stroke-width="1" />
+    <text x="18" y="22" class="stat-label">Enterprise SaaS</text>
+    <text x="18" y="44" class="stat-val">Slack, Zoom, Teams, Notion</text>
+
+    <!-- Card 3 -->
+    <rect x="520" y="0" width="245" height="58" rx="10" fill="url(#cardGrad)" stroke="rgba(255,255,255,0.08)" stroke-width="1" />
+    <text x="18" y="22" class="stat-label">Open-Source Alternatives</text>
+    <text x="18" y="44" class="stat-val">Excalidraw, Plane, Mattermost</text>
+
+    <!-- Card 4 -->
+    <rect x="780" y="0" width="290" height="58" rx="10" fill="url(#cardGrad)" stroke="rgba(255,255,255,0.08)" stroke-width="1" />
+    <text x="18" y="22" class="stat-label">Deployment Architecture</text>
+    <text x="18" y="44" class="stat-val">SaaS Cloud · Docker · Kubernetes</text>
+  </g>
+</svg>
