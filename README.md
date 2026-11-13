@@ -61,7 +61,7 @@ Cloud-hosted, enterprise-grade telecommuting suites and collaboration platforms.
 
 ## 🔓 Open-Source Software Stacks 💻
 
-Self-hosted, transparent, and sovereignty-preserving telecommuting suites. Ranked in **descending order by GitHub Stars_Count**. Each badge links directly to the project's stargazers page.
+Self-hosted, transparent, and sovereignty-preserving telecommuting suites. Ranked in **descending order by GitHub_Stars_Count**. Each badge links directly to the project's stargazers page.
 
 ### 1. [Excalidraw](https://github.com/excalidraw/excalidraw) [![GitHub_Stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers) 🎨
 - **Category:** Virtual Whiteboard & Architecture Diagramming  
